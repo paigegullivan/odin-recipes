@@ -1,0 +1,22 @@
+/* style.css */
+
+.odin-recipes {
+    background-color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+li {
+    color: turquoise;
+}
+
+li a{
+    font-size: 25px;
+    color: turquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 100px;
+}

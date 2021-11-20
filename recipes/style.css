@@ -1,0 +1,39 @@
+/* style.css */
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-family: cursive;
+    font-size: 30px;
+}
+
+
+li {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+li,
+p {
+    text-align: center;
+}
+
